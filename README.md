@@ -14,16 +14,17 @@
 </p>
 
 ### Languages
-[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)](https://github.com/Atharva-Pimple)
+[![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)](https://github.com/Atharva-Pimple/Java)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)](https://github.com/Atharva-Pimple)
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SURAJPATIL6088)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/Atharva-Pimple/Book_Api)
+[![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express.js)](https://github.com/Atharva-Pimple/nutra101)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Atharva-Pimple)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Atharva-Pimple)
 
 ### Technologies & Frameworks
-[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)](https://github.com/Atharva-Pimple)
-[![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express.js)](https://github.com/Atharva-Pimple)
-[![Android Studio](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/Atharva-Pimple)
+[![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)](https://github.com/Atharva-Pimple/nutra101)
+[![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express.js)](https://github.com/Atharva-Pimple/nutra101)
+[![Android Studio](https://img.shields.io/badge/androidstudio-black?style=for-the-badge&logo=androidstudio)](https://github.com/Atharva-Pimple)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharva-Pimple&label=Profile%20views&color=0e75b6&style=flat" alt="Atharva-Pimple" /> </p>
 
