@@ -17,7 +17,7 @@
 [![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=Java)](https://github.com/Atharva-Pimple)
 [![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=Python)](https://github.com/Atharva-Pimple)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/SURAJPATIL6088)
-[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/SURAJPATIL6088)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Atharva-Pimple)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Atharva-Pimple)
 
 ### Technologies & Frameworks
