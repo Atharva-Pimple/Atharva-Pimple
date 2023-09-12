@@ -19,6 +19,7 @@
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/cloud/atlas/lp/try4?utm_source=google&utm_campaign=search_gs_pl_evergreen_atlas_general-phrase_prosp-brand_gic-null_ww-multi_ps-all_desktop_eng_lead&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=p&utm_ad_campaign_id=11295578158&adgroup=116363205048&cq_cmp=11295578158&gad=1&gclid=Cj0KCQjwusunBhCYARIsAFBsUP8eXj5VZiWFGfA-jvJJlkxFvp5HJhtERuLfybJFt4sCGMSf6572gJcaAj-sEALw_wcB)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/Atharva-Pimple)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/Atharva-Pimple)
+[![Kotlin](https://img.shields.io/badge/Kotlin-black?style=for-the-badge&logo=Kotlin)](https://github.com/Atharva-Pimple)
 
 ### Technologies & Frameworks
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/en/docs)
