@@ -2,7 +2,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Atharva.<br>
-        A passionate about DSA, Development.<br>
+        A passionate about DSA, Java Development.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/atharva-pimple-99bbbb216">
