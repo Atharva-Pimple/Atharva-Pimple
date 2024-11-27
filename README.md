@@ -1,8 +1,8 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Atharva.<br>
-        A passionate about DSA, Java Development.<br>
+        I'm Atharva Pimple.<br>
+        A passionate about DSA, Software Development.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/atharva-pimple-99bbbb216">
@@ -10,6 +10,9 @@
     </a>
     <a href="mailto:atharvapimple30@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+    </a>
+    <a href="https://leetcode.com/u/atharv4/">
+        <img src="https://img.shields.io/badge/Leetcode-blue?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
     </a>
 </p>
 
@@ -23,16 +26,18 @@
 
 ### Technologies & Frameworks
 [![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=Node.js)](https://nodejs.org/en/docs)
-[![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express.js)](https://expressjs.com/en/5x/api.html)
+[![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://expressjs.com/en/5x/api.html)
 [![Android Studio](https://img.shields.io/badge/androidstudio-black?style=for-the-badge&logo=androidstudio)](https://github.com/Atharva-Pimple)
+[![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/Atharva-Pimple)
+[![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring)](https://github.com/Atharva-Pimple)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Atharva-Pimple&label=Profile%20views&color=0e75b6&style=flat" alt="Atharva-Pimple" /> </p>
 
-- 🔭 I’m currently working on **Fake Product Identification Using Blockchain**
+- 🔭 I’m currently working on **Stream App using SpringBoot and React**
 
-- 🌱 I’m currently learning **DSA, Full stack Android Applications**
+- 🌱 I’m currently learning **DSA, Full stack Web development**
 
-- 💬 Ask me about **Java, DSA, Android Development, RestAPI**
+- 💬 Ask me about **Java, DSA, Spring, RestAPI**
 
 <!--- Profile views --->
 
