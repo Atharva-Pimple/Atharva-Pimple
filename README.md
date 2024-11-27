@@ -5,13 +5,13 @@
         A passionate about DSA, Software Development.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://www.linkedin.com/in/atharva-pimple-99bbbb216">
+    <a href="https://www.linkedin.com/in/atharva-pimple-99bbbb216" targe="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="mailto:atharvapimple30@gmail.com">
+    <a href="mailto:atharvapimple30@gmail.com" targe="_blank">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://leetcode.com/u/atharv4/">
+    <a href="https://leetcode.com/u/atharv4/" targe="_blank">
         <img src="https://img.shields.io/badge/Leetcode-blue?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
     </a>
 </p>
